@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on computer technician assistant
 - 🌱 I’m currently learning OOP java
 - 📫 How to reach me: danilo.resenderamos5@gmai.com
-- 😄 Pronouns: he
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Danilera05">
